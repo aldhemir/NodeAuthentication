@@ -9,4 +9,3 @@
 - [PostgreSQL](https://www.postgresql.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 # NodeAuthentication
-# NodeAuthentication
